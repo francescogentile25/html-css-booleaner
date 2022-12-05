@@ -1,7 +1,5 @@
 *{
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
 }
 
 main,footer{
@@ -35,4 +33,29 @@ main,footer{
 }
 .photo-description{
     font-size: 12px;
+}
+
+.paragraph{
+    margin: 15px 0;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+table{
+    margin: 20px;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    
+}
+td{
+    height: 50px;
+}
+.tr-even{
+    background-color: rgb(118, 255, 255);
+}
+thead{
+    background-color: #2eacf9;
 }
