@@ -1,10 +1,4 @@
-*{
-    margin: 0;
-}
 
-main,footer{
-    margin: 4px;
-}
 .header-container{
     background-color: #2eacf9;
     background-image: url("../img/pattern.png");
@@ -19,8 +13,10 @@ main,footer{
 }
 .title{
     font-size: 40px;
+    margin-bottom: 0;
 }
 .author{
+    margin: 0;
     color: grey;
 }
 .link-author{
@@ -28,6 +24,7 @@ main,footer{
     color: #2eacf9;
 }
 .realization-data{
+    margin-top: 0;
     font-size: 12px;
     color: grey;
 }
