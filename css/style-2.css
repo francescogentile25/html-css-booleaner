@@ -1,0 +1,92 @@
+main{
+    margin: auto 200px;
+}
+footer{
+    margin: auto 200px;
+}
+
+.header-container{
+    background-color: #2eacf9;
+    background-image: url("../img/pattern.png");
+    background-size: 400px;
+    height: 100px;
+    background-repeat:repeat;
+}
+
+.logo{
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.title{
+    font-size: 40px;
+}
+.author{
+    margin-bottom: 0;
+    color: grey;
+}
+.realization-data{
+    margin-top: 0px;
+    font-size: 12px;
+    color: grey;
+}
+
+.gallery{
+    margin-top: 20px;
+}
+.photo-description{
+    font-size: 12px;
+}
+
+.paragraph{
+    margin: 15px 0;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+table{
+    margin: 20px;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    
+}
+thead{
+    color: white;
+}
+td{
+    height: 50px;
+}
+.tr-even{
+    background-color: rgb(118, 255, 255);
+}
+thead{
+    background-color: #2eacf9;
+}
+.title-footer{
+    color: grey;
+    margin: 10px 0;
+}
+
+.img-footer{
+    background-size: cover;
+    height: 200px;
+    width: 350px;
+    margin: 20px 0;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+.graph{
+    background-image: url(../img/graph.jpg)
+}
+.name-image-footer{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
