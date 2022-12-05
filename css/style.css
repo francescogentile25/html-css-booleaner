@@ -50,6 +50,9 @@ table{
     border-collapse: collapse;
     
 }
+thead{
+    color: white;
+}
 td{
     height: 50px;
 }
@@ -58,4 +61,8 @@ td{
 }
 thead{
     background-color: #2eacf9;
+}
+.title-footer{
+    color: grey;
+    margin: 10px 0;
 }
