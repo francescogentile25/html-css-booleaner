@@ -1,0 +1,15 @@
+.header-container{
+    background-color: #2eacf9;
+    background-image: url("../img/pattern.png");
+    background-size: 400px;
+    height: 100px;
+    background-repeat:repeat;
+}
+
+.logo{
+    height: 40px;
+    margin-top: 50px;
+}
+.title{
+    font-size: 38px;
+}
