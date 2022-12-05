@@ -23,6 +23,10 @@ main,footer{
 .author{
     color: grey;
 }
+.link-author{
+    text-decoration: none;
+    color: #2eacf9;
+}
 .realization-data{
     font-size: 12px;
     color: grey;
